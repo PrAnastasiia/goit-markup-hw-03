@@ -311,9 +311,12 @@ footer {
   margin-bottom: 9px;
 }
 
+.address-content {
+  margin-top: 20px;
+}
+
 .footer-address {
   margin-bottom: 9px;
-  margin-top: 20px;
   font-size: 14px;
   line-height: 1.7;
   letter-spacing: 0.03em;
